@@ -1,0 +1,156 @@
+{
+	"CAJA_Y_BANCOS" : {
+		"Caja":"1-1-01-00-0000",
+		"Bancos":"1-1-02-00-0000"
+	},
+	"CUENTAS_POR_COBRAR_(CxC)" : {
+		"Clientes":""
+	},
+	"OTRAS_CxC" : {
+		"":""
+	},
+	"ALMACEN_O_INVENTARIOS" : {
+		"Inventario":"",
+		"Inventarios_o_Compras_Nacionales":"",
+		"Inventarios_o_Compras_Importación":""
+	},
+	"IMPUESTOS_A_FAVOR" : {
+		"IVA_a_Favor":"",
+		"ISR_a_Favor":"",
+		"IESPS_a_Favor":""
+	},
+	"PAGOS_PROVISIONALES" : {
+		"Pagos_provisionales":"",
+		"ISR_Pagos_Provisionales_":"",
+		"ISR_Retenciones_Terceros":"",
+		"ISR_Retenciones_Bancarias":"",
+		"IVA_Retenido_por_INGRESOS_de_Servicios_6%_(Subcontratación)":"",
+		"IVA_Retenido_por_INGRESOS_de_Servicios_50%_IVA_Plataformas_Digitales_(8%_IVA)":"",
+		"IVA_Retenido_por_INGRESOS_de_Servicios_100%_IVA_Plataformas_Digitales_(16%_IVA)":""
+	},
+	"IVA_ACREDITABLE" : {
+		"IVA_acreditable":"",
+		"IVA_Acreditable_Pagado_16%":"",
+		"IVA_Acreditable_Pagado_8%":"",
+		"IVA_Acreditable_Importación_Pagado":"",
+		"IVA_Retenido_por_GASTOS_de_Servicios_Profesionales_2/3_partes_(10.67%)":"",
+		"IVA_Retenido_por_GASTOS_de_Arrendamiento_2/3_partes_(10.67%)":"",
+		"IVA_Retenido_por_GASTOS_de_Fletes_4%":"",
+		"IVA_Retenido_por_GASTOS_de_Servicios_6%_(Subcontratación)":"",
+		"IVA_Retenido_por_GASTOS_de_Servicios_50%_IVA_Plataformas_Digitales_(8%_IVA)":"",
+		"IVA_Retenido_por_GASTOS_de_Servicios_100%_IVA_Plataformas_Digitales_(16%_IVA)":""
+	},
+	"IEPS_ACREDITABLE" : {
+		"IEPS_Acreditable":"",
+		"IEPS_Acreditable_Pagado":""
+	},
+	"OTRAS_CUENTAS_DE_ACTIVO_CIRCULANTE" : {
+		"":""
+	},
+	"ACTIVO_NO_CIRCULANTE_(ACTIVO_FIJO)" : {
+		"Propiedades,_Planta_y_Equipo":"",
+		"Depn_Edificios_Y_Construcciones":"",
+		"Depn_Maquinaria_Y_Equipo":"",
+		"Depn_Mobiliario_Y_Equipo_De_Oficina":"",
+		"Depn_Equipo_De_Transporte":"",
+		"Depn_Equipo_De_Computo":""
+	},
+	"ACTIVO_NO_CIRCULANTE_(ACTIVO_DIFERIDO)" : {
+		"Activos_Intangibles":"",
+		"Amort_Gastos_Preoperativos":"",
+		"Amort_Investigacion_De_Mercado":"",
+		"Amort_Patentes_Y_Marcas":"",
+		"Amort_Gastos_De_Instalacion":"",
+		"Amort_Rentas_Pagadas_Por_Anticipado":"",
+		"Amort_Prima_De_Seguros_Y_Fianzas":"",
+		"Amort_Intereses_Pagados_Por_Anticipado":"",
+		"Amort_De_Franquicias":""
+	},
+	"CUENTAS_POR_PAGAR_(CxP)" : {
+		"Proveedores":"",
+		"Acreedores_Diversos":""
+	},
+	"OTRAS_CxP" : {
+		"Anticipo_de_Clientes":""
+	},
+	"IVA_TRASLADADO" : {
+		"IVA_Trasladado":"",
+		"IVA_Trasladado_Cobrado_16%":"",
+		"IVA_Trasladado_Cobrado_8%":""
+	},
+	"IEPS_TRASLADADOs" : {
+		"IEPS_Trasladado":"",
+		"IEPS_Trasladado_Cobrado":""
+	},
+	"IMPUESTOS_POR_PAGAR" : {
+		"Impuestos_por_Pagar_General":""
+	},
+	"SUELDOS_Y_SALARIOS_O_ASIMILADOS" : {
+		"Retención_ISR_por_Sueldos_y_Salarios_por_Pagar":"",
+		"Retención_ISR_Asimilados_por_Pagar":"",
+		"Subsidio_para_el_Empleo":""
+	},
+	"RETENCIONES_POR_PAGAR" : {
+		"Retención_ISR_Serv_Profesionales_por_Pagar":"",
+		"Retención_ISR_Arrendamiento_por_Pagar":"",
+		"Retención_ISR_Pagos_al_Extranjero_por_Pagar":"",
+		"Retención_ISR_Dividendos_por_Pagar":"",
+		"Retenciones_de_IVA_por_Pagar":"",
+		"Otras_Retenciones_de_ISR_por_Pagar":"",
+		"Otras_Retenciones_de_IVA_por_Pagar":""
+	},
+	"PTU_POR_PAGAR" : {
+		"PTU_por_Pagar":""
+	},
+	"OTRAS_CUENTAS_DE_PASIVO" : {
+		"Prestamos_Bancarios":"",
+		"Prestamos_Intercompañias":"",
+		"Prestamos_Terceros":""
+	},
+	"CAPITAL_CONTABLE" : {
+		"Capital_Contable_Contribuido":"",
+		"Capital_Variable":""
+	},
+	"RESULTADO_DEL_EJERCICIO" : {
+		"":""
+	},
+	"RESULTADO_DE_EJERCICIOS_ANTERIORES" : {
+		"":""
+	},
+	"OTRAS_CUENTAS_DE_CAPITAL" : {
+		"":""
+	},
+	"INGRESOS_O_VENTAS" : {
+		"Ingresos_Brutos":"",
+		"Ingresos_16%":"",
+		"Ingresos_8%":"",
+		"Ingresos_0%":"",
+		"Ingresos_Exentos":""
+	},
+	"COSTOS_DE_VENTA" : {
+		"Costos_de_Ventas":""
+	},
+	"GASTOS_OPERATIVOS" : {
+		"Gastos_de_Operación_16%":"",
+		"Gastos_de_Operación_0%":"",
+		"Gastos_de_Operación_Exentos":"",
+		"Sueldos_y_Salarios":"",
+		"Asimilados_a_Salarios":"",
+		"IVA_Acreditable_Deducible":"",
+		"Depreciaciones":"",
+		"Amortizaciones":"",
+		"Gastos_Contables":"",
+		"Gastos_No_Deducibles":"",
+		"Gastos_No_Sin_Requisitos_Fiscales":""
+	},
+	"PRODUCTOS_Y_OTROS_PRODUCTOS_FINANCIEROS" : {
+		"Ganancia_Cambiaria":"",
+		"Productos_Financieros":"",
+		"Otros_Productos_Financieros":""
+	},
+	"GASTOS_Y_OTROS_GASTOS_FINANCIEROS" : {
+		"Perdida_Cambiaria":"",
+		"Gastos_Financieros":"",
+		"Otros_Gastos_Financieros":""
+	}
+}

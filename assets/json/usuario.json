@@ -1,0 +1,18 @@
+{
+    "0" : {
+        "usuario" : "cavalos",
+        "contrasena" : "123",
+        "rol":"ROOT"
+    },
+    "1" : {
+        "usuario" : "padmin",
+        "contrasena" : "123",
+        "rol":"ADMIN"
+    },
+    "2" : {
+        "usuario" : "puser",
+        "contrasena" : "123",
+        "rol":"user"
+    }
+
+}

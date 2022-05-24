@@ -1,0 +1,37 @@
+{
+    "0" : {
+        "RFC" : "BURP870503N17",
+        "Razon_Social": "PAMELA BURAK RUBIO",
+        "Regimen_Fiscal" : "Titulo IV PF Capitulo I Sueldos y Salarios",
+        "Cliente" : "AARON ABADI ACHAR",
+        "Tipo" : "Persona Fisica"
+    },
+    "1" : {
+        "RFC" : "LIG110204GQ5",
+        "Razon_Social": "LIGARQ-DF A.C.",
+        "Regimen_Fiscal" : "Titulo II Regimen General de Ley",
+        "Cliente" : "ABEL PERLES",
+        "Tipo" : "Persona Moral"
+    },
+    "2" : {
+        "RFC" : "PAMA741111333",
+        "Razon_Social": "ABELARDO PALLADINO PIZA MARCONDES",
+        "Regimen_Fiscal" : "Socios o Accionistas",
+        "Cliente" : "ABELARDO PALLADINO PIZA MARCONDES",
+        "Tipo" : "Persona Fisica"
+    },
+    "3" : {
+        "RFC" : "BNC121130K28",
+        "Razon_Social": "ABOSSA NOVA COMUNICACION SA DE CV",
+        "Regimen_Fiscal" : "Titulo II Regimen General de Ley",
+        "Cliente" : "ABELARDO PALLADINO PIZA MARCONDES",
+        "Tipo" : "Persona Moral"
+    },
+    "4" : {
+        "RFC" : "BPPPPPPPPPP",
+        "Razon_Social": "PPPPPP SA DE CV",
+        "Regimen_Fiscal" : "TGeneral de Ley",
+        "Cliente" : "ABELARDO PALLADINO PIZA MARCONDES",
+        "Tipo" : "Persona Moral"
+    }
+}
