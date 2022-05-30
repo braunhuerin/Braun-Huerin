@@ -796,8 +796,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 
-<<<<<<< HEAD
-=======
 notiflix
 MIT
 MIT License
@@ -823,7 +821,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
->>>>>>> f7106af (Copilado con solucion en RTH, e404, login, noty)
 rxjs
 Apache-2.0
                                Apache License
