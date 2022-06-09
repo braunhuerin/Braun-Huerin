@@ -26,12 +26,5 @@
         "Regimen_Fiscal" : "Titulo II Regimen General de Ley",
         "Cliente" : "ABELARDO PALLADINO PIZA MARCONDES",
         "Tipo" : "Persona Moral"
-    },
-    "4" : {
-        "RFC" : "BPPPPPPPPPP",
-        "Razon_Social": "PPPPPP SA DE CV",
-        "Regimen_Fiscal" : "TGeneral de Ley",
-        "Cliente" : "ABELARDO PALLADINO PIZA MARCONDES",
-        "Tipo" : "Persona Moral"
     }
 }
